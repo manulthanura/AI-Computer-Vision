@@ -15,7 +15,7 @@ Images are a fundamental part of many applications, from simple photo viewers to
 
 ## License
 
-This repository is licensed under [Academic Free License v3.0](https://github.com/manulthanura/Laboratory/blob/main/LICENSE.md)
+This repository is licensed under [Academic Free License v3.0](https://github.com/manulthanura/AI-Computer-Vision/blob/main/LICENSE.md)
 
 ![Static Badge](https://img.shields.io/badge/License-Academic_Free_License_v3.0-blue)
 
