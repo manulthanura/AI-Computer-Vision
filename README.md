@@ -2,7 +2,7 @@
 
 Images are a fundamental part of many applications, from simple photo viewers to advanced machine learning models. In this repo, we'll explore various Python libraries that allow us to read and display images, providing insights into their features and use cases.
 
- ![Static Badge](https://img.shields.io/badge/AI_Computer_Vision-Jupyter_Notebook-orange) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/AI-Computer-Vision)
+ ![Static Badge](https://img.shields.io/badge/AI_Computer_Vision-Jupyter_Notebook-orange) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/AI-Computer-Vision) 
 
 
 ## Table of Contents
