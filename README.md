@@ -7,7 +7,7 @@ Images are a fundamental part of many applications, from simple photo viewers to
 
 ## Table of Contents
 
-- [Tutorial 01 - Reading and Displaying Images](#tutorial-01---reading-and-displaying-images)
+- [Tutorial 01 - Reading and Displaying Images](./Tutorial_01.ipynb)
 - [Tutorial 02 - Image Manipulation and Processing](#tutorial-02---image-manipulation-and-processing)
 - [Tutorial 03 - Image Segmentation](#tutorial-03---image-segmentation)
 
