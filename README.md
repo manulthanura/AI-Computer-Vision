@@ -11,7 +11,6 @@ Images are a fundamental part of many applications, from simple photo viewers to
 - [Tutorial 02 - Image Manipulation and Processing](./Tutorial_02.ipynb)
 - [Tutorial 03 - Image Segmentation](./Tutorial_03.ipynb)
 
-
 ## Support
 
 We hope this repository is helpful to you! **Give our repo a star :star:**
