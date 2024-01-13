@@ -7,10 +7,8 @@ Images are a fundamental part of many applications, from simple photo viewers to
 
 ## Table of Contents
 
-01. [Anlysis of CRC](./Analysis%20of%20Cyclic%20Redundancy%20Check%20(CRC))
-02. [Hamming Code](./Hamming%20Code/HammingCode.m)
-03. [FIR Filter](./Finite%20Impulse%20Response/FIR.md)
-04. [Digital Signal Processing](./Digital%20Signal%20Processing/)
+- [Tutorial 01 - Reading and Displaying Images](#tutorial-01---reading-and-displaying-images)
+
 
 
 ## Contributing
